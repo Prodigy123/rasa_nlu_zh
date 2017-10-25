@@ -1,0 +1,7 @@
+{
+  "pipeline": "config_jieba_mitie_sklearn",
+  "path" : "./projects",
+  "data" : "./data/examples/rasa/demo-rasa_zh.json",
+  "mitie_file" : "./total_word_feature_extractor_zh.dat",
+  "language" : "zh"
+}
